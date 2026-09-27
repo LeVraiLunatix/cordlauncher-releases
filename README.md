@@ -175,7 +175,7 @@ Toutes les versions, avec leurs notes et leurs empreintes, sont dans les **[Rele
 
 <a href="https://www.cordsuite.app"><img src="assets/logos/cordsuite.png" width="40" alt="La suite Cord"></a>
 
-<sub><a href="https://www.cordsuite.app">cordsuite.app</a> · <a href="https://compte.cordsuite.app">Compte Cord</a> · <a href="https://discord.gg/EyX2YR6nAy">Discord</a></sub>
+<sub><a href="https://www.cordsuite.app">cordsuite.app</a> · <a href="https://compte.cordsuite.app">Compte Cord</a> · <a href="https://github.com/LeVraiLunatix/cordlauncher">Code source</a> · <a href="https://discord.gg/EyX2YR6nAy">Discord</a></sub>
 
 <sub>© 2026 Lunatix · CordLauncher est un logiciel libre sous licence <a href="LICENSE">AGPL-3.0</a> · noms et logos réservés (<a href="NOTICE.md">NOTICE</a>)</sub>
 
